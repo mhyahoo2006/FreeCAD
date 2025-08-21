@@ -80,7 +80,7 @@
     </message>
     <message>
       <source>Position</source>
-      <translation type="unfinished">Position</translation>
+      <translation>احداثيات</translation>
     </message>
     <message>
       <source>Base</source>
@@ -176,7 +176,7 @@
     </message>
     <message>
       <source>Align</source>
-      <translation type="unfinished">Align</translation>
+      <translation>محاذاة</translation>
     </message>
     <message>
       <source>Placement</source>
@@ -299,11 +299,11 @@
     <name>ExpressionLabel</name>
     <message>
       <source>Enter an expression...</source>
-      <translation type="unfinished">Enter an expression...</translation>
+      <translation>أدخل تعبيراً...</translation>
     </message>
     <message>
       <source>Expression: </source>
-      <translation type="unfinished">Expression: </translation>
+      <translation>التعبير: </translation>
     </message>
   </context>
   <context>
@@ -409,8 +409,7 @@
     <message>
       <source>Scroll middle mouse button or keep middle button depressed
 while doing a left or right click and move the mouse up or down</source>
-      <translation type="unfinished">Scroll middle mouse button or keep middle button depressed
-while doing a left or right click and move the mouse up or down</translation>
+      <translation>لف عجلة الفأرة الوسطى أو اضغط باستمرار على عجلة الفأرة وحرك الفأرة أعلى وأسفل</translation>
     </message>
   </context>
   <context>
@@ -525,17 +524,17 @@ while doing a left or right click and move the mouse up or down</translation>
     </message>
     <message>
       <source>FreeCAD would not be possible without the contributions of</source>
-      <translation type="unfinished">FreeCAD would not be possible without the contributions of</translation>
+      <translation>لن يكون FreeCAD ممكناً إلا بفضل</translation>
     </message>
     <message>
       <source>Individuals</source>
       <extracomment>Header for the list of individual people in the Credits list.</extracomment>
-      <translation type="unfinished">Individuals</translation>
+      <translation>أفراد</translation>
     </message>
     <message>
       <source>Organizations</source>
       <extracomment>Header for the list of companies/organizations in the Credits list.</extracomment>
-      <translation type="unfinished">Organizations</translation>
+      <translation>منظمات</translation>
     </message>
   </context>
   <context>
@@ -550,11 +549,11 @@ while doing a left or right click and move the mouse up or down</translation>
     </message>
     <message>
       <source> "</source>
-      <translation type="unfinished"> "</translation>
+      <translation> "</translation>
     </message>
     <message>
       <source>"</source>
-      <translation type="unfinished">"</translation>
+      <translation>"</translation>
     </message>
   </context>
   <context>
@@ -569,19 +568,19 @@ while doing a left or right click and move the mouse up or down</translation>
     </message>
     <message>
       <source>Q0</source>
-      <translation type="unfinished">Q0</translation>
+      <translation>Q0</translation>
     </message>
     <message>
       <source>Q1</source>
-      <translation type="unfinished">Q1</translation>
+      <translation>Q1</translation>
     </message>
     <message>
       <source>Q2</source>
-      <translation type="unfinished">Q2</translation>
+      <translation>Q2</translation>
     </message>
     <message>
       <source>Q3</source>
-      <translation type="unfinished">Q3</translation>
+      <translation>Q3</translation>
     </message>
     <message>
       <source>Current view</source>
@@ -600,7 +599,7 @@ while doing a left or right click and move the mouse up or down</translation>
     </message>
     <message>
       <source>Flip</source>
-      <translation type="unfinished">Flip</translation>
+      <translation>قلب</translation>
     </message>
     <message>
       <source>Offset</source>
@@ -1166,18 +1165,18 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     <name>Gui::Dialog::DlgCustomizeSpNavSettings</name>
     <message>
       <source>Spaceball Motion</source>
-      <translation>حركة فضاء الكرة</translation>
+      <translation>حركة جهاز Spaceball</translation>
     </message>
     <message>
       <source>No Spaceball Present</source>
-      <translation type="unfinished">No Spaceball Present</translation>
+      <translation>بل وجود لجهلز Spaceball</translation>
     </message>
   </context>
   <context>
     <name>Gui::Dialog::DlgCustomizeSpaceball</name>
     <message>
       <source>No Spaceball Present</source>
-      <translation type="unfinished">No Spaceball Present</translation>
+      <translation>بل وجود لجهلز Spaceball</translation>
     </message>
     <message>
       <source>Buttons</source>
@@ -1185,15 +1184,15 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     </message>
     <message>
       <source>Print Reference</source>
-      <translation type="unfinished">Print Reference</translation>
+      <translation>عرض أو طباعة المراجع</translation>
     </message>
     <message>
       <source>Spaceball Buttons</source>
-      <translation type="unfinished">Spaceball Buttons</translation>
+      <translation>أزرار جهاز Spaceball</translation>
     </message>
     <message>
       <source>Reset</source>
-      <translation type="unfinished">Reset</translation>
+      <translation>إعادة التعيين</translation>
     </message>
   </context>
   <context>
@@ -1228,11 +1227,11 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     </message>
     <message>
       <source>Viewing mode</source>
-      <translation>وضع العرض</translation>
+      <translation>وضعية العرض</translation>
     </message>
     <message>
       <source>Plot mode:</source>
-      <translation type="unfinished">Plot mode:</translation>
+      <translation>وضعية الرسمة:</translation>
     </message>
     <message>
       <source/>
@@ -1252,7 +1251,7 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     </message>
     <message>
       <source>Color plot:</source>
-      <translation type="unfinished">Color plot:</translation>
+      <translation>لون الرسمة:</translation>
     </message>
     <message>
       <source>Document window:</source>
@@ -1299,15 +1298,15 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     </message>
     <message>
       <source>Metalized</source>
-      <translation type="unfinished">Metalized</translation>
+      <translation>معدني</translation>
     </message>
     <message>
       <source>Neon GNC</source>
-      <translation type="unfinished">Neon GNC</translation>
+      <translation>مضيء GNC</translation>
     </message>
     <message>
       <source>Neon PHC</source>
-      <translation type="unfinished">Neon PHC</translation>
+      <translation>مضيء PHC</translation>
     </message>
     <message>
       <source>Obsidian</source>
@@ -1331,11 +1330,11 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     </message>
     <message>
       <source>Satin</source>
-      <translation type="unfinished">Satin</translation>
+      <translation>حرير</translation>
     </message>
     <message>
       <source>Shiny plastic</source>
-      <translation type="unfinished">Shiny plastic</translation>
+      <translation>بلاستيك ناعم</translation>
     </message>
     <message>
       <source>Silver</source>
@@ -1366,31 +1365,31 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     </message>
     <message>
       <source>Enable folding</source>
-      <translation type="unfinished">Enable folding</translation>
+      <translation>السماح بالطي/التجليد</translation>
     </message>
     <message>
       <source>Indentation</source>
-      <translation type="unfinished">Indentation</translation>
+      <translation>المسافة الأولى</translation>
     </message>
     <message>
       <source>Insert spaces</source>
-      <translation type="unfinished">Insert spaces</translation>
+      <translation>إضافة مسافة</translation>
     </message>
     <message>
       <source>Tab size:</source>
-      <translation type="unfinished">Tab size:</translation>
+      <translation>حجم التبويب:</translation>
     </message>
     <message>
       <source>Indent size:</source>
-      <translation type="unfinished">Indent size:</translation>
+      <translation>إضافة حجم:</translation>
     </message>
     <message>
       <source>Keep tabs</source>
-      <translation type="unfinished">Keep tabs</translation>
+      <translation>ابق التوبيبات</translation>
     </message>
     <message>
       <source>Family:</source>
-      <translation type="unfinished">Family:</translation>
+      <translation>العائلة:</translation>
     </message>
     <message>
       <source>Size:</source>
@@ -1406,7 +1405,7 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     </message>
     <message>
       <source>Pressing &lt;Tab&gt; will insert amount of defined indent size</source>
-      <translation type="unfinished">Pressing &lt;Tab&gt; will insert amount of defined indent size</translation>
+      <translation>اضغط &lt;Tab&gt; وسيتم اضافة مجموعة مسافات بدائية</translation>
     </message>
     <message>
       <source>Tabulator raster (how many spaces)</source>
@@ -1422,19 +1421,19 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     </message>
     <message>
       <source>Display items</source>
-      <translation type="unfinished">Display items</translation>
+      <translation>عناصر العرض</translation>
     </message>
     <message>
       <source>Font size to be used for selected code type</source>
-      <translation type="unfinished">Font size to be used for selected code type</translation>
+      <translation>حجم الخط المستخدم للكود المحدد</translation>
     </message>
     <message>
       <source>Color and font settings will be applied to selected type</source>
-      <translation type="unfinished">Color and font settings will be applied to selected type</translation>
+      <translation>إعدادات الخط واللون التي سيتم تطبيقها في النوع المحدد</translation>
     </message>
     <message>
       <source>Font family to be used for selected code type</source>
-      <translation type="unfinished">Font family to be used for selected code type</translation>
+      <translation>عائلة خط الكتابة ليتم استخدامها لنوع الكود المحدد</translation>
     </message>
     <message>
       <source>Color:</source>
@@ -1442,7 +1441,7 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     </message>
     <message>
       <source>Code lines will be numbered</source>
-      <translation type="unfinished">Code lines will be numbered</translation>
+      <translation>سيتم ترقيم أسطر الكود</translation>
     </message>
   </context>
   <context>
@@ -1453,15 +1452,15 @@ If this is not ticked, then the property must be uniquely named, and it is acces
     </message>
     <message>
       <source>Start up</source>
-      <translation type="unfinished">Start up</translation>
+      <translation>البدء</translation>
     </message>
     <message>
       <source>Enable splash screen at start up</source>
-      <translation type="unfinished">Enable splash screen at start up</translation>
+      <translation>إظهار شاشة التحميل عند البدء</translation>
     </message>
     <message>
       <source>Auto load module after start up:</source>
-      <translation type="unfinished">Auto load module after start up:</translation>
+      <translation>تحميل نموذج بشكل تلقائي بعد البدء:</translation>
     </message>
     <message>
       <source>Language</source>
